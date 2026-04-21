@@ -1,0 +1,158 @@
+Distortion in Heat-Treated Glass: Understanding Roller Wave, Edge Lift, and Bow Across Severity Levels
+
+Technical Article • AGNORA • Adam Mitchell
+
+Overview
+Heat-treated glass — whether tempered or heat-strengthened — achieves its strength through rapid heating and quenching. This process introduces internal stresses that can result in optical distortion.
+Rather than viewing distortion as a single issue, it is more accurately understood as the interaction of three distinct deformation mechanisms:
+
+Roller Wave
+Edge Lift (Edge Curl)
+Overall Bow
+
+Each of these can occur at varying levels of severity, influencing both visual quality and functional performance.
+
+2. The Three Types of Distortion
+
+Roller Wave
+
+Roller wave is a periodic surface waviness introduced as the glass travels over ceramic rollers in the tempering furnace.
+
+Appears as repeating ripples (typically 100–300 mm spacing)
+Most visible in reflection, especially on coated or low-iron glass
+Driven by:
+Roller spacing and alignment
+Furnace temperature uniformity
+Glass thickness and stiffness
+
+Edge Lift (Edge Curl)
+
+Edge lift is a localized distortion at the perimeter of the glass caused by faster cooling at the edges during quenching.
+
+Typically occurs within 25–75 mm of the edge
+Caused by differential cooling between edge and center
+Most noticeable at:
+IGU sightlines
+Butt joints
+Spandrel transitions
+
+Overall Bow
+
+Overall bow is a global curvature across the entire glass lite, resulting in deviation from flatness.
+
+Measured as centre-to-edge displacement
+Can be concave or convex
+Influenced by:
+Quench uniformity
+Coating absorption differences
+Panel size and thickness
+
+3. Severity Levels Across Distortion Types
+
+Distortion is best evaluated as a combination of type + severity rather than a single generalized scale.
+
+Level 1 — Conditional Visibility
+Roller wave: visible only under sharp angles or specific lighting
+Edge lift: minimal and rarely noticeable once installed
+Bow: within standard tolerances, no visual disruption
+Typical Applications:
+
+High-end façades
+Retail glazing
+Low-iron or coated glass systems
+
+Level 2 — Readily Visible Distortion
+Roller wave: visible in normal reflections
+Edge lift: noticeable at edges and joints
+Bow: slight image bending across the panel
+Typical Applications:
+
+Curtain wall systems
+Large insulated glass units (IGUs)
+Standard commercial glazing
+
+Level 3 — Dominant Distortion
+Roller wave: strong ripple patterns across the full lite
+Edge lift: pronounced perimeter warping
+Bow: obvious curvature affecting both aesthetics and fit
+Typical Applications:
+
+Generally rejected for architectural use
+May be acceptable in industrial or non-visual applications
+
+4. Key Considerations
+Manufacturing Process
+Roller wave is tied to furnace mechanics
+Edge lift results from cooling gradients
+Bow reflects system-wide thermal imbalance
+Glass Size and Thickness
+Larger and thicker panels amplify all distortion types
+Coatings
+Low-E coatings significantly increase visibility of roller wave
+Glass Type
+Tempered glass typically exhibits more distortion than heat-strengthened due to more aggressive quenching
+Measurement Methods
+Optical reflection analysis
+Straight-edge or laser measurement for bow
+Polarized light for stress patterns
+
+5. Standards and Manufacturing Tolerances (ASTM C1048) + AGNORA Fabricator Specifications
+The baseline industry reference for heat-treated flat glass is ASTM C1048, which defines allowable flatness tolerances and bow limits. Though this standard sometimes doesn’t meet the required guidelines and should be supplemented by the fabricator’s published standards.
+
+Join The Writer's Circle event
+Overall Bow
+
+Typically limited to 0.3% of the glass length
+Fabricators typically follow this specification unless otherwise asked
+Example:
+3,000 mm lite → allowable bow ≈ 9 mm
+Roller Wave
+
+Not explicitly quantified in ASTM C1048
+AGNORA:
+<= 10 mm = 0.127 mm PVM
+>= 12 mm = determined by agreement
+Edge Distortion
+
+Not explicitly quantified in ASTM C1048
+AGNORA:
+All substrates = 0.2032 mm
+Practical Interpretation for Projects
+While ASTM provides baseline compliance, it does not fully control optical quality. In practice:
+
+A panel can meet ASTM bow limits and still show objectionable roller wave
+Edge lift is often the dominant visual issue in frameless systems, despite being outside ASTM scope
+Coated glass (especially Low-E) can exaggerate distortion beyond what ASTM tolerances imply
+It is more important to rely on the fabricator’s specifications versus the ASTM standard. Any fabricator worth their salt can provide you with their specification and align with your project goals.
+
+Recommended Project-Level Tolerances
+For higher-performance applications, typical best-practice targets are:
+
+Roller Wave
+Minimise visually under normal viewing conditions
+Often controlled through mockups rather than numeric limits
+Goal: Less than 0.127 mm on average
+Edge Lift
+
+Control within 50–100 mm of edge zones
+Critical for butt joints and structural silicone glazing
+Goal: Less than 0.20 mm
+Overall Bow
+
+Goal: ≤ 0.2% (tighter than ASTM) for high-clarity applications
+Specification Guidance
+Instead of relying solely on ASTM language, stronger specifications combine:
+
+ASTM compliance (baseline)
+Visual mockup approval
+Application-specific priorities:
+Reflection quality (facades)
+Alignment (structural glazing)
+Edge condition (frameless systems)
+
+6. Conclusion
+Distortion in heat-treated glass is best understood as the interaction of roller wave, edge lift, and overall bow each expressed across varying levels of severity.
+
+While ASTM C1048 establishes baseline tolerances, it does not fully address optical performance. Effective specification and evaluation require a combined approach considering both measurable limits and visual outcomes.
+
+By identifying both the type and degree of distortion, project teams can better control glass performance and ensure alignment with both aesthetic and functional requirements.
